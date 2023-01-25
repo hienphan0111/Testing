@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hienphan0111/Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hienphan0111/Testing/issues"
+  },
+  "homepage": "https://github.com/hienphan0111/Testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  },
+  "jest": {
+    "collectCoverage":true
+  }
+}
